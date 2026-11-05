@@ -9,7 +9,16 @@
 
 - [SEC](#)
 
+## Resources
+
+- [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/65SmfsUMXVS)
+
 ## Introduction
 
 - [HTML](/src/T01_intro/T01.html)
 - [PDF](/src/T01_intro/T01.pdf)
+
+## ERPNext
+
+- [HTML](/src/T02_erpnext/T02.html)
+- [PDF](/src/T02_erpnext/T02.pdf)
