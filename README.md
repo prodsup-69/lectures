@@ -12,6 +12,7 @@
 ## Resources
 
 - [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/65SmfsUMXVS)
+- [Favicon Generator](https://favicongenerator.io)
 
 ## Introduction
 
