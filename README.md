@@ -7,7 +7,7 @@
 
 ## Lecture VDO Playlist
 
-- [SEC](#)
+- [Sec 003/803](https://www.youtube.com/playlist?list=PLQNrPHcGHUlQ)
 
 ## Resources
 
