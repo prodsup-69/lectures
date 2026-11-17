@@ -8,6 +8,7 @@
 ## Lecture VDO Playlist
 
 - [Sec 003/803](https://www.youtube.com/playlist?list=PLQNrPHcGHUlQ)
+- [Sec 006/806](https://www.youtube.com/playlist?list=PLF53gS7QxtTc)
 
 ## Resources
 
