@@ -1,14 +1,14 @@
-$folder = "src\T01_intro"
-pnpm run html $folder
-pnpm run pdf $folder
+# $folder = "src\T01_intro"
+# pnpm run html $folder
+# pnpm run pdf $folder
 
 # $folder = "src\T02_erpnext"
 # pnpm run html $folder
 # pnpm run pdf $folder
 
-$folder = "src\T03_node_red"
-pnpm run html $folder
-pnpm run pdf $folder
+# $folder = "src\T03_node_red"
+# pnpm run html $folder
+# pnpm run pdf $folder
 
 # $folder = "src\T04_mqtt"
 # pnpm run html $folder
@@ -78,6 +78,6 @@ pnpm run pdf $folder
 # pnpm run html $folder
 # pnpm run pdf $folder
 
-# $folder = "src\T99_project"
-# pnpm run html $folder
-# pnpm run pdf $folder
+$folder = "src\T99_project"
+pnpm run html $folder
+pnpm run pdf $folder
