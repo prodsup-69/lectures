@@ -9,7 +9,8 @@
 
 - [Sec 003/803](https://www.youtube.com/playlist?list=PLQNrPHcGHUlQ)
 - [Sec 006/806](https://www.youtube.com/playlist?list=PLF53gS7QxtTc)
-- [Project](https://youtube.com/playlist?list=PLNGLpHQhvGrtqn6UYxUYXm7C0auAYrh_O&si=8qAaHvdWK2L_lYxZ)
+- [Additional Contents](https://youtube.com/playlist?list=PLWfZaRc5utuY&si=eLY6L1P2Vv7e7B9s)
+- [Past Project](https://youtube.com/playlist?list=PLNGLpHQhvGrtqn6UYxUYXm7C0auAYrh_O&si=8qAaHvdWK2L_lYxZ)
 
 ## Resources
 
